@@ -13,14 +13,16 @@ By:Andy, Nick, Hamza
   </tr>
   <tr>
     <td class="tg-yw4l">10 Minutes</td>
-    <td class="tg-yw4l">No order</td>
+    <td class="tg-yw4l"></td>
   </tr>
     <tr>
-    <td class="tg-yw4l">{1 2 3}</td>
-    <td class="tg-yw4l">[2 3 4]</td>
+    <td class="tg-yw4l">45 Minutes</td>
+    <td class="tg-yw4l">Live Coding Session</td>
   </tr>
 </table>
 
 https://github.com/OCSDB/ics4u-coding-challenge-the-trees.git
 
 Video can be found: https://www.youtube.com/watch?v=fcdNSZ9IzJM
+
+Computer Science Concept:https://en.wikipedia.org/wiki/Fractal_tree_index
