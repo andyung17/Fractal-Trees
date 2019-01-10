@@ -7,7 +7,7 @@ By:Andy, Nick, Hamza
 <h2>Coding Challenge Plan:</h2>
 <table class="tg">
   <tr>
-    <th class="tg-yw4l"><b>Time</b></th>
+    <th class="tg-yw4l"><b>Time Needed</b></th>
     <th class="tg-yw4l"><b>Plan</b></th>
   </tr>
   <tr>
