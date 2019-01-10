@@ -31,6 +31,7 @@ By:Andy, Nick, Hamza
 https://github.com/OCSDB/ics4u-coding-challenge-the-trees.git
 
 <h3>Fractal Trees Challenge</h3>
-Video can be found: https://www.youtube.com/watch?v=fcdNSZ9IzJM
+Video can be found: https://www.youtube.com/watch?v=fcdNSZ9IzJM <br>
 
-Computer Science Concept:https://en.wikipedia.org/wiki/Fractal_tree_index
+<h3>Computer Science Concept-Data Strucutre:</h3>
+https://en.wikipedia.org/wiki/Fractal_tree_index
