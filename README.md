@@ -1,5 +1,8 @@
 # Summative coding challenge: Fractal-Trees
 By:Andy, Nick, Hamza
+
+<h2>What is a Fractal Tree?</h2>
+
  
 <h2>Coding Challenge Plan:</h2>
 <table class="tg">
