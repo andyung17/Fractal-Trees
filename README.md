@@ -15,12 +15,12 @@ By:Andy, Nick, Hamza
     <td class="tg-yw4l">Introduction</td>
   </tr>
   <tr>
-    <td class="tg-yw4l">10 Minutes</td>
-    <td class="tg-yw4l"></td>
-  </tr>
-    <tr>
     <td class="tg-yw4l">45 Minutes</td>
     <td class="tg-yw4l">Live Coding Session</td>
+  </tr>
+    <tr>
+    <td class="tg-yw4l">20 Minutes</td>
+    <td class="tg-yw4l">Discussion and Information</td>
   </tr>
 </table>
 
