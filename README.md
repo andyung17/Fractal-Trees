@@ -28,10 +28,11 @@ By:Andy, Nick, Hamza
   </tr>
 </table>
 
-https://github.com/OCSDB/ics4u-coding-challenge-the-trees.git
-
 <h3>Fractal Trees Challenge</h3>
 Video can be found: https://www.youtube.com/watch?v=fcdNSZ9IzJM <br>
 
 <h3>Computer Science Concept-Data Strucutre:</h3>
 https://en.wikipedia.org/wiki/Fractal_tree_index
+
+<h3>Other Repo:</h3>
+https://github.com/OCSDB/ics4u-coding-challenge-the-trees.git
