@@ -22,6 +22,10 @@ By:Andy, Nick, Hamza
     <td class="tg-yw4l">20 Minutes</td>
     <td class="tg-yw4l">Discussion and Information</td>
   </tr>
+     <tr>
+    <td class="tg-yw4l">2-3 Minutes</td>
+    <td class="tg-yw4l">Questions</td>
+  </tr>
 </table>
 
 https://github.com/OCSDB/ics4u-coding-challenge-the-trees.git
