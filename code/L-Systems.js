@@ -16,7 +16,7 @@ void draw(){
 void branch(float len){
   line(0,0,0,-len);
   translate(0, -len);
-  if (len > 0.1){
+  if (len > 4){
     pushMatrix();
     rotate(angle);
     branch(len * branch_ratio);
