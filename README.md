@@ -2,7 +2,7 @@
 By:Andy, Nick, Hamza
 
 <h2>Fractal Trees</h2>
-Dan shieffman coding challenge on Fractal Tree's (Object oriented) is how to code a tree like structure utilizing algorithms (recursion) and an object oriented approach. Fractal trees can continue infinietly with many branches, with the tree being a set of those branches. With this coding video and live session, you will learn how to code a Fractal Tree (object oriented) 
+Dan shieffman coding challenge on Fractal Tree's (Object oriented) is how to code a tree like structure utilizing algorithms (recursion) and an object oriented approach. Fractal trees can continue infinitely with many branches, with the tree being a set of those branches. With this coding video and live session, you will learn how to code a Fractal Tree (object oriented) 
 
 <h2>What is a Fractal Tree?</h2>
 
