@@ -7,6 +7,8 @@ Dan shieffman coding challenge on Fractal Tree's (Object oriented) is how to cod
 <h2>What is a Fractal Tree?</h2>
 
  
+ Link to more Information: http://www.math.union.edu/research/fractaltrees/fractaltreesdefs.html
+ 
 <h2>Coding Challenge Plan:</h2>
 <table class="tg">
   <tr>
