@@ -51,7 +51,7 @@ void mousePressed(){
 }
 
 /**
-* Displays the Tree
+* Displays the Tree with modifications
 */
 void draw(){
   background(51);
