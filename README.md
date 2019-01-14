@@ -55,6 +55,5 @@ Real Life Applications:
   <li>Photo compression (JPEG)</li>
 </ul>
 
-<br>
 <h3>Other Repo:</h3>
 Link: https://github.com/OCSDB/ics4u-coding-challenge-the-trees.git
