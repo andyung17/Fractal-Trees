@@ -7,7 +7,7 @@ Dan shieffman coding challenge on Fractal Tree's (Object oriented) is how to cod
 <h2>What is a Fractal Tree?</h2>
 <strong>Fractal</strong>: A curve or geometric figure, each part of which has the same statistical character as the whole. Fractals are useful in modeling structures (such as eroded coastlines or snowflakes) in which similar patterns recur at progressively smaller scales, and in describing partly random or chaotic phenomena such as crystal growth, fluid turbulence, and galaxy formation.<br>
 
-<br>
+<br><br>
 A Fractal Tree utilizes recursion (pattern) to make up the branches that makeup apart of the tree. The branches can continue to grow infinitely and have no restriction. These branches are made by simple repeated geometric patterns. 
  
  
