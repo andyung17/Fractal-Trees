@@ -2,7 +2,7 @@
 By:Andy, Nick, Hamza
 
 <h2>Fractal Trees</h2>
-Dan shieffman coding challenge on Fractal Tree's (Object oriented) is how to code a tree like structure utilizing algorithms (recursion) and an object oriented approach using some simple geometry. Fractal trees can continue infinitely with many branches (simple recursion pattern), with the tree being a set of those branches. With this coding video and live session, you will learn how to code a Fractal Tree (object oriented) and be able to change it with only a click of a button!
+Dan shieffman coding challenge on Fractal Tree's (Object oriented) is how to code a tree like structure utilizing algorithms (recursion) and an object oriented approach using some simple geometry. Fractal trees can continue infinitely with many branches (simple recursion pattern), with the tree being a set of those branches. With this coding video and live session, you will learn how to code a Fractal Tree (object oriented) with recursion and be able to change it as many times as you want with only a click of a button!
 
 <h2>What is a Fractal Tree?</h2>
 <strong>Fractal</strong>: A curve or geometric figure, each part of which has the same statistical character as the whole. Fractals are useful in modeling structures (such as eroded coastlines or snowflakes) in which similar patterns recur at progressively smaller scales, and in describing partly random or chaotic phenomena such as crystal growth, fluid turbulence, and galaxy formation.<br>
