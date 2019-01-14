@@ -11,19 +11,19 @@ By:Andy, Nick, Hamza
     <th class="tg-yw4l"><b>Plan</b></th>
   </tr>
   <tr>
-    <td class="tg-yw4l">5 Minutes</td>
-    <td class="tg-yw4l">Introduction</td>
+    <td class="tg-yw4l">20 Minutes</td>
+    <td class="tg-yw4l">Introductions, Spinoffs, and Algorithms</td>
   </tr>
   <tr>
-    <td class="tg-yw4l">45 Minutes</td>
+    <td class="tg-yw4l">30 Minutes</td>
     <td class="tg-yw4l">Live Coding Session</td>
   </tr>
     <tr>
-    <td class="tg-yw4l">20 Minutes</td>
+    <td class="tg-yw4l">15 Minutes</td>
     <td class="tg-yw4l">Discussion and Information</td>
   </tr>
      <tr>
-    <td class="tg-yw4l">2-3 Minutes</td>
+    <td class="tg-yw4l">10 Minutes</td>
     <td class="tg-yw4l">Questions</td>
   </tr>
 </table>
