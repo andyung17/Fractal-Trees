@@ -48,6 +48,13 @@ Link: https://en.wikipedia.org/wiki/Fractal_tree_index
 More Information about Emerging Attena that may be found in computers,aircrafts, satellite and other electronics
 <br>Link: https://ieeexplore.ieee.org/abstract/document/1189650
 
+Real Life Applications:
+<ul>
+  <li>Electronics</li>
+  <li>Data Structures and Storing</li>
+  <li>Photo compression (JPEG)</li>
+</ul>
+
 <br>
 <h3>Other Repo:</h3>
 Link: https://github.com/OCSDB/ics4u-coding-challenge-the-trees.git
