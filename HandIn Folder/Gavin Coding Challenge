@@ -1,0 +1,96 @@
+//Tree file
+ArrayList<Branch> tree = new ArrayList<Branch>();
+ArrayList<PVector> leaves = new ArrayList<PVector>();
+int count = 0;
+
+void setup(){
+  size(1080, 720);
+  //create root-Branch
+  PVector a = new PVector(width / 2, height);
+  PVector b = new PVector(width / 2, height - 100);
+  Branch root = new Branch(a, b); 
+  tree.add(root);
+}
+
+
+void mousePressed(){
+  for(int i = tree.size() -1; i >= 0; i--){
+    Branch current = tree.get(i);
+    if(!current.finished){
+      tree.add(current.branchA());
+      tree.add(current.branchB());
+    }
+    current.finished = true;
+  }
+  count ++;
+  
+  if(count == 6){
+    for(int i = 0; i < tree.size(); i++){
+      Branch current = tree.get(i);
+      if(!current.finished){
+        PVector leaf = current.end.copy();
+        leaves.add(leaf);
+      }
+    }
+  }
+    
+}
+
+void draw(){
+  background(0);
+ 
+  for(int i = 0; i < tree.size(); i++){
+    tree.get(i).show();
+  }
+  
+  for(int i = 0; i < leaves.size(); i++){
+    fill(255, 0, 100, 100);
+    noStroke();
+    PVector leave = leaves.get(i);
+    ellipse(leave.x, leave.y, 8, 8);
+    leave.y += random(0, 2);
+  }
+}
+
+//Branch file
+//Changes the angle the branches move at 
+class Branch{
+
+  public PVector begin;
+  public PVector end;
+  public boolean finished = false;
+  
+  Branch(PVector begin, PVector end){
+    this.begin = begin;
+    this.end = end;
+  }
+  
+  void jitter(){
+    end.x += random(-1, 1);
+    end.y += random(-1, 1);
+  }
+  
+
+  void show(){
+    stroke(255);
+    line(begin.x, begin.y, end.x, end.y);
+  }
+
+  Branch branchA(){
+    PVector dir = PVector.sub(end, begin);
+    dir.rotate(PI / 4);
+    dir.mult(0.9);
+    PVector newEnd = PVector.add(end, dir);
+    Branch b = new Branch(end, newEnd);
+    return b;
+  }
+
+  Branch branchB(){
+    PVector dir = PVector.sub(end, begin);
+    dir.rotate(- PI / 4);
+    dir.mult(0.9);
+    PVector newEnd = PVector.add(end, dir);
+    Branch b = new Branch(end, newEnd);
+    return b;
+  }
+}
